@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+id: "1AA3D1EA-1604-4214-B69612152B9D51D8"
+version: "0.1.1.1"
+name: cfpassphrase
+description: "The cfPassphrase extensions is for securely hashing and checking passwords/passphrases using proven industry standard algorithms."
